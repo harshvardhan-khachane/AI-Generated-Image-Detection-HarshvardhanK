@@ -48,6 +48,7 @@ Hi! This project was created for the bitgrit competition for "Generative AI" (ht
 
 
    ![pic5](https://github.com/harshvardhan-khachane/AI-Generated-Image-Detection-HarshvardhanK/assets/99604231/93dca6ed-f683-4a4e-af5a-2576b4c379f4)
+   
 
 
 
