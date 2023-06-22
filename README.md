@@ -41,7 +41,7 @@ Hi! This project was created for the bitgrit competition for "Generative AI" (ht
 
 
 4. Following that, I proceeded to apply Principal Component Analysis (PCA) to the data and evaluated its accuracy using the aforementioned classifiers.The outcome of this analysis is as follows:
-5. 
+   
    ![pic4](https://github.com/harshvardhan-khachane/AI-Generated-Image-Detection-HarshvardhanK/assets/99604231/cf4f2d6f-dfe6-4d1d-9afe-ff1b44baf173)
 
 
